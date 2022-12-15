@@ -1,0 +1,2 @@
+lst=[45,9,63,72,54]
+print("Biggest value of list is:",max(lst))
